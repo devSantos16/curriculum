@@ -61,7 +61,7 @@ Desenvolvimento de aplicações voltadas à automação do processo de aditament
 - Conhecimento básico em bancos de dados relacionais e não relacionais, com tecnologias como SQLite e LiteDB.
 - Comunicação eficaz com diversos setores da empresa.
 
-### EXPERTISE EM METODOLOGIAS ###
+### HABILIDADES TÉCNICAS ###
 
 - **Linguagens de Programação**: Python, C#, .NET Framework, WPF, Windows - Forms, Entity Framework
 - **Tecnologias Web**: HTML, CSS, Bootstrap
