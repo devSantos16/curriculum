@@ -37,6 +37,7 @@ Focado em tecnologias de software de alto nível, com habilidade para resoluçã
 Responsável pela manutenção dos softwares de automação da Altus, incluindo ArchiteX e MasterTool IEC XE, além de softwares parceiros como BCSTools.
 
 **Assistente de Produto 1**  
+
 - Experiência inicial com manipulação de scripts em Python.
 - Experiência incial com rastreamento de bugs utilizando Bugzilla.
 - Aprimoramento do conhecimento em C#, utilizando padrões de projeto como Adapter, Factory, Command e Singleton.
