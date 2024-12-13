@@ -49,17 +49,17 @@ Responsável pela manutenção dos softwares de automação da Altus, incluindo 
 - Experiência em testar e validar códigos da equipe, aplicando práticas de Code Review.
 - Experiência inicial com metodologias ágeis, incluindo Kanban e Scrum.
 - Experiência inicial na documentação de código utilizando LaTeX.
-- Aprimoramento de git utilizando linha de comando e abordagens como Git workflow e merge request.
+- Aprimoramento de Git utilizando linha de comando e abordagens como Git workflow e merge request.
 
 **Desenvolvedor de software no projeto Alunx Brilhantes.**  
 **Agosto de 2019 / Julho de 2022**
 
-Desenvolvimento de aplicações voltadas à automação do processo de aditamento de contratos do FIES, especificamente para o setor financeiro da UniRitter. Essa posição marcou minha primeira experiência com tecnologias .NET, incluindo C# e Windows Forms.
+Desenvolvimento de aplicações voltadas à automação do processo de aditamento de contratos do FIES, especificamente para o setor financeiro da UniRitter.
 
-- Experiência inicial com Git, GitHub e ferramentas visuais como GitKraken.
-- Uso frequente do framework Selenium para automação de dados.
-- Conhecimento básico em bancos de dados relacionais e não relacionais, com tecnologias como SQLite e LiteDB.
-- Comunicação eficaz com diversos setores da empresa.
+- Minha primeira experiência com tecnologias .NET, utilizando C# e Windows Forms.
+- Experiência introdutória com Git e GitHub, incluindo o uso da ferramenta visual GitKraken.
+- Conhecimento básico do framework Selenium para automação de sistemas.
+- Conhecimento básico em bancos de dados relacionais e não relacionais, com tecnologias SQLite e LiteDB.
 
 ### HABILIDADES TÉCNICAS ###
 
