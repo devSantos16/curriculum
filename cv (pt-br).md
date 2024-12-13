@@ -1,4 +1,4 @@
-**Emanuel dos Santos Paz**
+# Emanuel dos Santos Paz
 
 Alvorada | RS
 
@@ -10,11 +10,11 @@ LinkedIn: https://www.linkedin.com/in/devsantos16/
 
 GitHub: https://github.com/devSantos16
 
-**ENGENHEIRO DE SOFTWARE**
+## ENGENHEIRO DE SOFTWARE ##
 
 Focado em tecnologias de software de alto nível, com habilidade para resolução de problemas e comunicação eficaz.
 
-**RESUMO DE QUALIFICAÇÕES**
+### RESUMO DE QUALIFICAÇÕES ###
 
 - Familiaridade em C# para desenvolvimento de software de alto nível e Python para automação de scripts.
 - Conhecimento básico de automação de sistemas com o framework Selenium.
@@ -23,13 +23,13 @@ Focado em tecnologias de software de alto nível, com habilidade para resoluçã
 - Conhecimento inicial em metodologias ágeis, como Kanban e Scrum, aplicado à organização e gestão de projetos de software.
 - Proatividade no ambiente de trabalho, com foco na resolução problemas.
 
-**FORMAÇÃO ACADÊMICA**
+### FORMAÇÃO ACADÊMICA ### 
 
 - Técnico em Informática – QI Faculdade e Escola Técnica – 2017-2018.
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – UniRitter – 2019-2022.
 - Certificação, Desenvolvedor .NET Pottencial – Digital Innovation One - 2022.
 
-**EXPERIÊNCIA PROFISSIONAL**
+### EXPERIÊNCIA PROFISSIONAL ###
 
 **Assistente de Produto na Altus S.A.**
 **Dezembro de 2022 / Dezembro de 2024**
@@ -61,7 +61,7 @@ Desenvolvimento de aplicações voltadas à automação do processo de aditament
 - Conhecimento básico em bancos de dados relacionais e não relacionais, com tecnologias como SQLite e LiteDB.
 - Comunicação eficaz com diversos setores da empresa.
 
-**EXPERTISE EM METODOLOGIAS**
+### EXPERTISE EM METODOLOGIAS ###
 
 - **Linguagens de Programação**: Python, C#, .NET Framework, WPF, Windows - Forms, Entity Framework
 - **Tecnologias Web**: HTML, CSS, Bootstrap
