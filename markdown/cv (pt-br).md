@@ -27,11 +27,11 @@ Focado em tecnologias de software de alto nível, com habilidade para resoluçã
 
 - Técnico em Informática – QI Faculdade e Escola Técnica – 2017-2018.
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – UniRitter – 2019-2022.
-- Certificação, Desenvolvedor .NET Pottencial – Digital Innovation One - 2022.
+- Certificação, Pottencial .NET Developer  – Digital Innovation One - 2022.
 
 ### EXPERIÊNCIA PROFISSIONAL ###
 
-**Assistente de Produto na Altus S.A.**
+**Assistente de Produto na Altus S.A.**  
 **Dezembro de 2022 / Dezembro de 2024**
 
 Responsável pela manutenção dos softwares de automação da Altus, incluindo ArchiteX e MasterTool IEC XE, além de softwares parceiros como BCSTools.
@@ -51,7 +51,7 @@ Responsável pela manutenção dos softwares de automação da Altus, incluindo 
 - Experiência inicial na documentação de código utilizando LaTeX.
 - Aprimoramento de git utilizando linha de comando e abordagens como Git workflow e merge request.
 
-**Desenvolvedor de Projetos Brilliant Student**
+**Desenvolvedor de software no projeto Alunx Brilhantes.**  
 **Agosto de 2019 / Julho de 2022**
 
 Desenvolvimento de aplicações voltadas à automação do processo de aditamento de contratos do FIES, especificamente para o setor financeiro da UniRitter. Essa posição marcou minha primeira experiência com tecnologias .NET, incluindo C# e Windows Forms.
@@ -63,7 +63,7 @@ Desenvolvimento de aplicações voltadas à automação do processo de aditament
 
 ### HABILIDADES TÉCNICAS ###
 
-- **Linguagens de Programação**: Python, C#, .NET Framework, WPF, Windows - Forms, Entity Framework
+- **Linguagens de Programação**: Python, C#, .NET Framework, WPF, Windows Forms, Entity Framework
 - **Tecnologias Web**: HTML, CSS, Bootstrap
 - **Banco de Dados**: LiteDB, SQL Server
 - **Controle de Versão**: Git Bash, GitHub, GitExtension, GitKraken
