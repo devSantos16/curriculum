@@ -36,16 +36,16 @@ Focado em tecnologias de software de alto nível, com habilidade para resoluçã
 
 Responsável pela manutenção dos softwares de automação da Altus, incluindo ArchiteX e MasterTool IEC XE, além de softwares parceiros como BCSTools.
 
-**Assistente de Produto 1**  
+**Assistente de Produtos 1**  
 
 - Experiência inicial com manipulação de scripts em Python.
 - Experiência incial com rastreamento de bugs utilizando Bugzilla.
 - Aprimoramento do conhecimento em C#, utilizando padrões de projeto como Adapter, Factory, Command e Singleton.
 - Aprimoramento em conceitos do Git, utilizando as ferramentas GitExtension e GitBash.
-- Experiência inicial com a API Automation Platform da CodeSys
+- Experiência inicial com a API Automation Platform da CodeSys.
 - Familiaridade com o ambiente de pesquisa e desenvolvimento (P&D) da empresa.
 
-**Assistente de Produto 2**  
+**Assistente de Produtos 2**  
 
 - Experiência em testar e validar códigos da equipe, aplicando práticas de Code Review.
 - Experiência inicial com metodologias ágeis, incluindo Kanban e Scrum.
