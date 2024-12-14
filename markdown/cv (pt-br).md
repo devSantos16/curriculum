@@ -39,7 +39,7 @@ Responsável pela manutenção dos softwares de automação da Altus, incluindo 
 **Assistente de Produtos 1**  
 
 - Experiência inicial com manipulação de scripts em Python.
-- Experiência incial com rastreamento de bugs utilizando Bugzilla.
+- Experiência inicial com rastreamento de bugs utilizando Bugzilla.
 - Aprimoramento do conhecimento em C#, utilizando padrões de projeto como Adapter, Factory, Command e Singleton.
 - Aprimoramento em conceitos do Git, utilizando as ferramentas GitExtension e GitBash.
 - Experiência inicial com a API Automation Platform da CodeSys.
