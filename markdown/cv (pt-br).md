@@ -25,9 +25,10 @@ Focado em tecnologias de software de alto nível, com habilidade para resoluçã
 
 ### FORMAÇÃO ACADÊMICA
 
-- Técnico em Informática – QI Faculdade e Escola Técnica – 2017-2018.
-- Tecnólogo em Análise e Desenvolvimento de Sistemas – UniRitter – 2019-2022.
-- Certificação, Pottencial .NET Developer  – Digital Innovation One - 2022.
+- Técnico em Informática – QI Faculdade e Escola Técnica | 2017-2018.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas | UniRitter – 2019-2022.
+- Pós Graduação em Engenharia de Software (Andamento) | Unisinos – 2025.
+- Certificação, Pottencial .NET Developer | Digital Innovation One - 2022.
 
 ### EXPERIÊNCIA PROFISSIONAL
 
